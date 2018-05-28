@@ -1,0 +1,15 @@
+{
+  "name": "mormonbot",
+  "version": "1.0.0",
+  "description": "Quotes from the entire LDS Scriptural Cannon (except the Bible since there are already several Bible Bots).",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan McLaughlin",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security"
+  }
+}
