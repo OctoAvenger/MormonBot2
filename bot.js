@@ -54,6 +54,6 @@ bot.on("message", (message) => {
     });
 
 //Bot login Token.
-bot.login("NDAyMjMwOTQyNjExMDEzNjMy.Deyo7w.rB_IPKnvQi9t0sEBVeCSXfpSsEE");
+bot.login("[TOKEN]");
 
 //https://www.lds.org/scriptures/bofm/[book]/[chapter]?lang=eng
